@@ -8,6 +8,7 @@ O comportamento esperado da aplicação é a exibição dos valores que serão i
 ### Deploy the ECS cluster
 Acesse o diretorio iac/
 
+terraform init <br/>
 terraform plan <br/>
 terraform apply
 
