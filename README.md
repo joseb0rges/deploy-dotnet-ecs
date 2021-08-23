@@ -6,6 +6,7 @@ O sistema deve conter:
 O comportamento esperado da aplicação é a exibição dos valores que serão inseridos no banco durante a inicialização do Backend, quando for requisitado no endereço raiz da porta 80.
 
 ### Deploy the ECS cluster
+Acesse o diretorio iac/
 
 terraform plan <br/>
 terraform apply
