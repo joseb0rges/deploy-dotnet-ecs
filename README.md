@@ -7,7 +7,7 @@ O comportamento esperado da aplicação é a exibição dos valores que serão i
 
 ### Deploy the ECS cluster
 
-terraform plan
+terraform plan <br/>
 terraform apply
 
 
